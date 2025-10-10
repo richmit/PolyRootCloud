@@ -48,6 +48,10 @@
 %%        Set coefficients c1 & c2 in p to the value of p1 & p2
 %%        Find the roots of p and plot them
 %%      Repeat
+%%
+%%   I wrote this code as a prototype allowing me to quickly play with the idea of a polynomial root cloud.  Later I
+%%   wrote a C++ version that may be found in the examples collection of MRaster:
+%%       https://github.com/richmit/mraster/blob/master/examples/poly_root_cloud.cpp
 %%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%.H.E.%%
 
 %-----------------------------------------------------------------------------------------------------------------------
